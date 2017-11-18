@@ -17,5 +17,5 @@ you make me stronger
 
 看到这个说明提交成功
 
-提交到本地
+提交到远程
 
